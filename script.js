@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 document.addEventListener('DOMContentLoaded', () => {
     const hero = document.querySelector('.full-width-hero');
-    const bgBlur = document.querySelector('.hero-bg-blur img');
+    const bgBlur = document.querySelector('.hero-background-blur img');
     const innerBox = document.querySelector('.inner-img-box');
     const caption = document.querySelector('.image-caption');
 
